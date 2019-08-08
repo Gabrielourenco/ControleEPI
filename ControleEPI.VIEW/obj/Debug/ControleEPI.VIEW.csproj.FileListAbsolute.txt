@@ -1,0 +1,83 @@
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.VIEW.exe.config
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.VIEW.exe
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.VIEW.pdb
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.MODEL.dll
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\EntityFramework.dll
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\EntityFramework.SqlServer.dll
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.MODEL.pdb
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.MODEL.dll.config
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\EntityFramework.xml
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\EntityFramework.SqlServer.xml
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.csprojAssemblyReference.cache
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.FrmColaborador.resources
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.FrmEPI.resources
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.FrmSaida.resources
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.Principal.resources
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.Properties.Resources.resources
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.csproj.GenerateResource.cache
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.csproj.CoreCompileInputs.cache
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.csproj.CopyComplete
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.exe
+G:\Gabriel\Manserv\Segurança\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.pdb
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.VIEW.exe.config
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.VIEW.exe
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.VIEW.pdb
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.MODEL.dll
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\EntityFramework.dll
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\EntityFramework.SqlServer.dll
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.MODEL.pdb
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.MODEL.dll.config
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\EntityFramework.xml
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\EntityFramework.SqlServer.xml
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.csprojAssemblyReference.cache
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.FrmColaborador.resources
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.FrmEPI.resources
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.FrmSaida.resources
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.Principal.resources
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.Properties.Resources.resources
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.csproj.GenerateResource.cache
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.csproj.CoreCompileInputs.cache
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.csproj.CopyComplete
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.exe
+G:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.pdb
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.VIEW.exe.config
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.VIEW.exe
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.VIEW.pdb
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.MODEL.dll
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\EntityFramework.dll
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\EntityFramework.SqlServer.dll
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.MODEL.pdb
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.MODEL.dll.config
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\EntityFramework.xml
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\EntityFramework.SqlServer.xml
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.csprojAssemblyReference.cache
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.FrmColaborador.resources
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.FrmEPI.resources
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.FrmSaida.resources
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.Principal.resources
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.Properties.Resources.resources
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.csproj.GenerateResource.cache
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.csproj.CoreCompileInputs.cache
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.csproj.CopyComplete
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.exe
+F:\Gabriel\Faculdade\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.pdb
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.VIEW.exe.config
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.VIEW.exe
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.VIEW.pdb
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.MODEL.dll
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.MODEL.pdb
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\ControleEPI.MODEL.dll.config
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.FrmEPI.resources
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.FrmSaida.resources
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.Principal.resources
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.exe
+C:\Users\Gabriel\Desktop\Faculdade\2018\Linguagens de programação moderna\ControleEPI.MODEL\ControleEPI.VIEW\obj\Debug\ControleEPI.VIEW.pdb

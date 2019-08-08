@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ControleEPIModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Colaborador">
+    <Key>
+      <PropertyRef Name="RE" />
+    </Key>
+    <Property Name="RE" Type="int" Nullable="false" />
+    <Property Name="Nome" Type="varchar" MaxLength="150" Nullable="false" />
+    <Property Name="Funcao" Type="varchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EPI">
+    <Key>
+      <PropertyRef Name="Codigo" />
+    </Key>
+    <Property Name="Codigo" Type="int" Nullable="false" />
+    <Property Name="Nome" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="CA" Type="int" />
+    <Property Name="DataEntrada" Type="date" Nullable="false" />
+    <Property Name="Quantidade" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="ControleEPIModelStoreContainer">
+    <EntitySet Name="Colaborador" EntityType="Self.Colaborador" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EPI" EntityType="Self.EPI" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
